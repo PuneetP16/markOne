@@ -2,7 +2,7 @@
 
 The objective of this project is to create a CLI quiz app about me, Puneet!
 
-## To Run on replit: 
+## Run on replit: 
 https://replit.com/@PuneetPatel1/markOne?embed=1&output=1
 
 ## To Run on your system:
